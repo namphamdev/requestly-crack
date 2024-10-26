@@ -1,9 +1,14 @@
 {
-	"name": "Requestly Crack",
-	"description": "Requestly Crack",
+	"name": "Requestly Helper",
+	"description": "Requestly Helper",
 	"version": "1.0",
 	"manifest_version": 2,
 	"background": { "scripts": ["background.js"] },
+	"icons": {
+      "128": "images/128x128.png",
+      "16": "images/16x16.png",
+      "48": "images/48x48.png"
+   },
 	"permissions": [
 		"webRequest",
 		"webRequestBlocking",
