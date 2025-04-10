@@ -1,0 +1,353 @@
+{
+	"toggles": [
+			{
+					"name": "create-space-button",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "webapp-enable-deactivate-team-member",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "always-confirm-recording-setting",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "kubernetes-batch-processing",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "web-enable-reporting",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "extension-enable-open-transcript-after-meeting",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "workflows-integrations-preview",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"payload": {
+									"type": "json",
+									"value": "[\"linear\", \"notion\", \"hubspot\", \"pipedrive\", \"workable\", \"googledrive\"]"
+							},
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "mac-app-mvp-rollout",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "shorter-transcript-preview-experiment",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "auto-join-team-page",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "webapp-enable-newmeetinglists",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "upgrade-paid-seat-banner",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "extension-enable-graphql-subscriptions",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "extension-enable-meeting-chat-notifications",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "extension-enable-compress",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "enable-meeting-kits",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "extension-ms-teams-onboarding",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "extension-logs-disabled",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "webapp-enable-preview-meetings-cleanup-warning",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "automatic-workflow-triggers",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "extension-welcome-message-variation",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "extension-enable-hide-autosave-toggle",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "workflows-integrations",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "webapp-enable-dec2024-signin",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "zoom-arabic-reset",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "workflows",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "extension-enable-experimental-lang-switcher",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "av-scan-enabled",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "session-recording",
+					"enabled": true,
+					"variant": {
+							"name": "WelcomeTeam",
+							"enabled": true,
+							"payload": {
+									"type": "json",
+									"value": "{\"on\": \"Viewed Team welcome page\", \"off\": \"Viewed Meeting Details Page\"}"
+							},
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "ai-summary-preview-experiment",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			},
+			{
+					"name": "api-enable-ai-features-for-new-users",
+					"enabled": true,
+					"variant": {
+							"name": "Everyone",
+							"enabled": true,
+							"feature_enabled": true,
+							"featureEnabled": true
+					},
+					"impressionData": false
+			}
+	]
+}

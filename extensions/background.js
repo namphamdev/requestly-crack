@@ -5,6 +5,9 @@ chrome.webRequest.onBeforeRequest.addListener(
 		if (details.url.includes("assets/index-D-hRXdUZ.js")) {
 			return { redirectUrl: "https://cdn.jsdelivr.net/gh/namphamdev/requestly-crack/js/index.js" };
 		}
+		if (details.url.includes("ffp.tactiq.io/proxy")) {
+			return { redirectUrl: "https://cdn.jsdelivr.net/gh/namphamdev/requestly-crack/json/tactiq.json" };
+		}
 	},
 	{ urls: ["<all_urls>"] }, // Specify the URLs to listen on
 	["blocking"]
